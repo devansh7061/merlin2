@@ -1,7 +1,7 @@
 {
   "name": "merlin",
   "version": "0.1.0",
-  "homepage": "https://devansh7061.github.io/merlin",
+  "homepage": "https://devansh7061.github.io/merlin2",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
