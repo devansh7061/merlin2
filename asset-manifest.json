@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/merlin2/static/js/main.5794fd4b.js",
+    "static/media/bg.svg": "/merlin2/static/media/bg.6cc6d6df2bf375a9ece4f73d564184ba.svg",
+    "static/media/firefox.svg": "/merlin2/static/media/firefox.e0b6c51357746b7deb2ba128b70db730.svg",
+    "static/media/Frame.svg": "/merlin2/static/media/Frame.d67ee924f8bcb49fcd0fbfaaa3af664f.svg",
+    "static/media/refresh.svg": "/merlin2/static/media/refresh.f41e9c9efcb64d76cc16847233568609.svg",
+    "static/media/blockquote.svg": "/merlin2/static/media/blockquote.bf6d3ae428cc75d196943e80b6b90164.svg",
+    "static/media/volume.svg": "/merlin2/static/media/volume.8ba7b354b7c19e6e640c1a94f3cbebd0.svg",
+    "static/media/wand.svg": "/merlin2/static/media/wand.c82c6649f4e14901dbdfe4e677c220f5.svg",
+    "static/media/mood-kid.svg": "/merlin2/static/media/mood-kid.353588f3f324544b45a9ab7ef21f9908.svg",
+    "static/media/language.svg": "/merlin2/static/media/language.5ead7010fde581e147ea852ccd2f509c.svg",
+    "index.html": "/merlin2/index.html",
+    "static/media/quote.svg": "/merlin2/static/media/quote.26acb56edc98e54a7a0fa1b1f277dbcc.svg",
+    "static/media/book-2.svg": "/merlin2/static/media/book-2.0a30fa3b0beaaf9b29849a3b7234e413.svg",
+    "static/media/question-mark.svg": "/merlin2/static/media/question-mark.8e58e4bd2f01e660b949bb2c4a480059.svg",
+    "static/media/copy.svg": "/merlin2/static/media/copy.27a9ea5dc1488b2049970491177528df.svg",
+    "static/media/arrow-right.svg": "/merlin2/static/media/arrow-right.97943681b58bc3fddde38a58bc229f68.svg",
+    "static/media/arrow-left.svg": "/merlin2/static/media/arrow-left.58567c78e13fa9a8fa85e00eb0a08255.svg",
+    "static/media/path.svg": "/merlin2/static/media/path.10d4cabe1356c36f27f04d67d3a0ea42.svg",
+    "main.5794fd4b.js.map": "/merlin2/static/js/main.5794fd4b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5794fd4b.js"
+  ]
+}
